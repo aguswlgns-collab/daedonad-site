@@ -1,0 +1,1 @@
+export const metadata={title:'대동광고',description:'간판·현수막·썬팅 30년 경력'};export default function RootLayout({children}){return(<html lang='ko'><body>{children}</body></html>)}
